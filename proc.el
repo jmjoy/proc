@@ -1,4 +1,4 @@
-;;; auto-pause.el --- Macros for writing human readable elisp code. -*- lexical-binding: t; -*-
+;;; proc.el --- Macros for writing human readable elisp code. -*- lexical-binding: t; -*-
 
 ;; This file is NOT part of GNU Emacs.
 
