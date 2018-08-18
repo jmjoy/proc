@@ -17,6 +17,11 @@
 
 ;;; Commentary:
 
+;; Macros for writing human readable elisp code.
+
+;;; Code:
+
+;;;###autoload
 (defmacro proc (&rest forms)
   "C-style variables definition."
   (if (<= (length forms) 1)
